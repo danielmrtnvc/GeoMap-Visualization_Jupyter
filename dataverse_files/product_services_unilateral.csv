@@ -1,0 +1,17 @@
+product_id,code,name_short_en,product_level,top_parent_id,product_id_hierarchy
+14,services,Services,1,14,14
+400,unspecified,Unspecified,2,14,14.400
+401,travel,Travel & tourism,2,14,14.401
+402,transport,Transport,2,14,14.402
+403,ict,Business,2,14,14.403
+404,financial,Insurance & finance,2,14,14.404
+4000,unspecified,Unspecified,4,14,14.400.4000
+4001,travel,Travel & tourism,4,14,14.401.4001
+4002,transport,Transport,4,14,14.402.4002
+4003,ict,Business,4,14,14.403.4003
+4004,financial,Insurance & finance,4,14,14.404.4004
+14000,unspecified,Unspecified,6,14,14.400.4000.14000
+14001,travel,Travel & tourism,6,14,14.401.4001.14001
+14002,transport,Transport,6,14,14.402.4002.14002
+14003,ict,ICT,6,14,14.403.4003.14003
+14004,financial,Insurance & finance,6,14,14.404.4004.14004

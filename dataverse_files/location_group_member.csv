@@ -1,0 +1,991 @@
+group_type,group_name,group_id,country_id
+continent,North America,930,28
+continent,North America,930,44
+continent,North America,930,52
+continent,North America,930,60
+continent,North America,930,84
+continent,North America,930,92
+continent,North America,930,124
+continent,North America,930,136
+continent,North America,930,188
+continent,North America,930,192
+continent,North America,930,212
+continent,North America,930,214
+continent,North America,930,222
+continent,North America,930,238
+continent,North America,930,304
+continent,North America,930,308
+continent,North America,930,312
+continent,North America,930,320
+continent,North America,930,332
+continent,North America,930,340
+continent,North America,930,388
+continent,North America,930,474
+continent,North America,930,484
+continent,North America,930,500
+continent,North America,930,530
+continent,North America,930,531
+continent,North America,930,533
+continent,North America,930,534
+continent,North America,930,558
+continent,North America,930,591
+continent,North America,930,592
+continent,North America,930,652
+continent,North America,930,659
+continent,North America,930,660
+continent,North America,930,662
+continent,North America,930,666
+continent,North America,930,670
+continent,North America,930,780
+continent,North America,930,796
+continent,North America,930,840
+continent,North America,930,850
+continent,Asia,931,4
+continent,Asia,931,31
+continent,Asia,931,48
+continent,Asia,931,50
+continent,Asia,931,51
+continent,Asia,931,64
+continent,Asia,931,96
+continent,Asia,931,104
+continent,Asia,931,116
+continent,Asia,931,144
+continent,Asia,931,156
+continent,Asia,931,158
+continent,Asia,931,196
+continent,Asia,931,268
+continent,Asia,931,275
+continent,Asia,931,344
+continent,Asia,931,356
+continent,Asia,931,360
+continent,Asia,931,364
+continent,Asia,931,368
+continent,Asia,931,376
+continent,Asia,931,392
+continent,Asia,931,398
+continent,Asia,931,400
+continent,Asia,931,408
+continent,Asia,931,410
+continent,Asia,931,414
+continent,Asia,931,417
+continent,Asia,931,418
+continent,Asia,931,422
+continent,Asia,931,446
+continent,Asia,931,458
+continent,Asia,931,462
+continent,Asia,931,496
+continent,Asia,931,512
+continent,Asia,931,524
+continent,Asia,931,586
+continent,Asia,931,608
+continent,Asia,931,626
+continent,Asia,931,634
+continent,Asia,931,682
+continent,Asia,931,702
+continent,Asia,931,704
+continent,Asia,931,720
+continent,Asia,931,760
+continent,Asia,931,762
+continent,Asia,931,764
+continent,Asia,931,784
+continent,Asia,931,792
+continent,Asia,931,795
+continent,Asia,931,860
+continent,Asia,931,868
+continent,Asia,931,887
+continent,Africa,932,12
+continent,Africa,932,24
+continent,Africa,932,72
+continent,Africa,932,108
+continent,Africa,932,120
+continent,Africa,932,132
+continent,Africa,932,140
+continent,Africa,932,148
+continent,Africa,932,174
+continent,Africa,932,175
+continent,Africa,932,178
+continent,Africa,932,180
+continent,Africa,932,204
+continent,Africa,932,226
+continent,Africa,932,231
+continent,Africa,932,232
+continent,Africa,932,262
+continent,Africa,932,266
+continent,Africa,932,270
+continent,Africa,932,288
+continent,Africa,932,324
+continent,Africa,932,384
+continent,Africa,932,404
+continent,Africa,932,426
+continent,Africa,932,430
+continent,Africa,932,434
+continent,Africa,932,450
+continent,Africa,932,454
+continent,Africa,932,466
+continent,Africa,932,478
+continent,Africa,932,480
+continent,Africa,932,504
+continent,Africa,932,508
+continent,Africa,932,516
+continent,Africa,932,562
+continent,Africa,932,566
+continent,Africa,932,624
+continent,Africa,932,638
+continent,Africa,932,646
+continent,Africa,932,654
+continent,Africa,932,678
+continent,Africa,932,686
+continent,Africa,932,690
+continent,Africa,932,694
+continent,Africa,932,706
+continent,Africa,932,710
+continent,Africa,932,716
+continent,Africa,932,728
+continent,Africa,932,729
+continent,Africa,932,732
+continent,Africa,932,748
+continent,Africa,932,768
+continent,Africa,932,788
+continent,Africa,932,800
+continent,Africa,932,818
+continent,Africa,932,834
+continent,Africa,932,854
+continent,Africa,932,894
+continent,Europe,933,8
+continent,Europe,933,20
+continent,Europe,933,40
+continent,Europe,933,56
+continent,Europe,933,70
+continent,Europe,933,100
+continent,Europe,933,112
+continent,Europe,933,191
+continent,Europe,933,200
+continent,Europe,933,203
+continent,Europe,933,208
+continent,Europe,933,233
+continent,Europe,933,234
+continent,Europe,933,246
+continent,Europe,933,250
+continent,Europe,933,276
+continent,Europe,933,278
+continent,Europe,933,292
+continent,Europe,933,300
+continent,Europe,933,336
+continent,Europe,933,348
+continent,Europe,933,352
+continent,Europe,933,372
+continent,Europe,933,380
+continent,Europe,933,428
+continent,Europe,933,440
+continent,Europe,933,442
+continent,Europe,933,470
+continent,Europe,933,498
+continent,Europe,933,499
+continent,Europe,933,528
+continent,Europe,933,578
+continent,Europe,933,616
+continent,Europe,933,620
+continent,Europe,933,642
+continent,Europe,933,643
+continent,Europe,933,674
+continent,Europe,933,688
+continent,Europe,933,703
+continent,Europe,933,705
+continent,Europe,933,724
+continent,Europe,933,752
+continent,Europe,933,756
+continent,Europe,933,804
+continent,Europe,933,807
+continent,Europe,933,810
+continent,Europe,933,826
+continent,Europe,933,890
+continent,Europe,933,891
+continent,South America,934,32
+continent,South America,934,68
+continent,South America,934,76
+continent,South America,934,152
+continent,South America,934,170
+continent,South America,934,218
+continent,South America,934,254
+continent,South America,934,328
+continent,South America,934,535
+continent,South America,934,600
+continent,South America,934,604
+continent,South America,934,740
+continent,South America,934,858
+continent,South America,934,862
+continent,Other,935,10
+continent,Other,935,16
+continent,Other,935,74
+continent,Other,935,86
+continent,Other,935,239
+continent,Other,935,260
+continent,Other,935,334
+continent,Other,935,581
+continent,Other,935,914
+continent,Other,935,999
+continent,Oceania,936,36
+continent,Oceania,936,90
+continent,Oceania,936,162
+continent,Oceania,936,166
+continent,Oceania,936,184
+continent,Oceania,936,242
+continent,Oceania,936,258
+continent,Oceania,936,296
+continent,Oceania,936,316
+continent,Oceania,936,520
+continent,Oceania,936,540
+continent,Oceania,936,548
+continent,Oceania,936,554
+continent,Oceania,936,570
+continent,Oceania,936,574
+continent,Oceania,936,580
+continent,Oceania,936,582
+continent,Oceania,936,583
+continent,Oceania,936,584
+continent,Oceania,936,585
+continent,Oceania,936,598
+continent,Oceania,936,612
+continent,Oceania,936,772
+continent,Oceania,936,776
+continent,Oceania,936,798
+continent,Oceania,936,876
+continent,Oceania,936,882
+region,Africa,2,12
+region,Africa,2,24
+region,Africa,2,72
+region,Africa,2,86
+region,Africa,2,108
+region,Africa,2,120
+region,Africa,2,132
+region,Africa,2,140
+region,Africa,2,148
+region,Africa,2,174
+region,Africa,2,175
+region,Africa,2,178
+region,Africa,2,180
+region,Africa,2,204
+region,Africa,2,226
+region,Africa,2,231
+region,Africa,2,232
+region,Africa,2,262
+region,Africa,2,266
+region,Africa,2,270
+region,Africa,2,288
+region,Africa,2,324
+region,Africa,2,384
+region,Africa,2,404
+region,Africa,2,426
+region,Africa,2,430
+region,Africa,2,434
+region,Africa,2,450
+region,Africa,2,454
+region,Africa,2,466
+region,Africa,2,478
+region,Africa,2,480
+region,Africa,2,504
+region,Africa,2,508
+region,Africa,2,516
+region,Africa,2,562
+region,Africa,2,566
+region,Africa,2,624
+region,Africa,2,638
+region,Africa,2,646
+region,Africa,2,654
+region,Africa,2,678
+region,Africa,2,686
+region,Africa,2,690
+region,Africa,2,694
+region,Africa,2,706
+region,Africa,2,710
+region,Africa,2,716
+region,Africa,2,728
+region,Africa,2,729
+region,Africa,2,732
+region,Africa,2,748
+region,Africa,2,768
+region,Africa,2,788
+region,Africa,2,800
+region,Africa,2,818
+region,Africa,2,834
+region,Africa,2,854
+region,Africa,2,894
+region,Oceania,9,16
+region,Oceania,9,36
+region,Oceania,9,90
+region,Oceania,9,162
+region,Oceania,9,166
+region,Oceania,9,184
+region,Oceania,9,242
+region,Oceania,9,258
+region,Oceania,9,296
+region,Oceania,9,316
+region,Oceania,9,334
+region,Oceania,9,520
+region,Oceania,9,540
+region,Oceania,9,548
+region,Oceania,9,554
+region,Oceania,9,570
+region,Oceania,9,574
+region,Oceania,9,580
+region,Oceania,9,581
+region,Oceania,9,583
+region,Oceania,9,584
+region,Oceania,9,585
+region,Oceania,9,598
+region,Oceania,9,612
+region,Oceania,9,772
+region,Oceania,9,776
+region,Oceania,9,798
+region,Oceania,9,876
+region,Oceania,9,882
+region,Americas,19,28
+region,Americas,19,32
+region,Americas,19,44
+region,Americas,19,52
+region,Americas,19,60
+region,Americas,19,68
+region,Americas,19,74
+region,Americas,19,76
+region,Americas,19,84
+region,Americas,19,92
+region,Americas,19,124
+region,Americas,19,136
+region,Americas,19,152
+region,Americas,19,170
+region,Americas,19,188
+region,Americas,19,192
+region,Americas,19,212
+region,Americas,19,214
+region,Americas,19,218
+region,Americas,19,222
+region,Americas,19,238
+region,Americas,19,239
+region,Americas,19,254
+region,Americas,19,304
+region,Americas,19,308
+region,Americas,19,312
+region,Americas,19,320
+region,Americas,19,328
+region,Americas,19,332
+region,Americas,19,340
+region,Americas,19,388
+region,Americas,19,474
+region,Americas,19,484
+region,Americas,19,500
+region,Americas,19,530
+region,Americas,19,531
+region,Americas,19,533
+region,Americas,19,534
+region,Americas,19,535
+region,Americas,19,558
+region,Americas,19,591
+region,Americas,19,600
+region,Americas,19,604
+region,Americas,19,652
+region,Americas,19,659
+region,Americas,19,660
+region,Americas,19,662
+region,Americas,19,666
+region,Americas,19,670
+region,Americas,19,740
+region,Americas,19,780
+region,Americas,19,796
+region,Americas,19,840
+region,Americas,19,850
+region,Americas,19,858
+region,Americas,19,862
+region,Asia,142,4
+region,Asia,142,31
+region,Asia,142,48
+region,Asia,142,50
+region,Asia,142,51
+region,Asia,142,64
+region,Asia,142,96
+region,Asia,142,104
+region,Asia,142,116
+region,Asia,142,144
+region,Asia,142,156
+region,Asia,142,158
+region,Asia,142,196
+region,Asia,142,268
+region,Asia,142,275
+region,Asia,142,344
+region,Asia,142,356
+region,Asia,142,360
+region,Asia,142,364
+region,Asia,142,368
+region,Asia,142,376
+region,Asia,142,392
+region,Asia,142,398
+region,Asia,142,400
+region,Asia,142,408
+region,Asia,142,410
+region,Asia,142,414
+region,Asia,142,417
+region,Asia,142,418
+region,Asia,142,422
+region,Asia,142,446
+region,Asia,142,458
+region,Asia,142,462
+region,Asia,142,496
+region,Asia,142,512
+region,Asia,142,524
+region,Asia,142,586
+region,Asia,142,608
+region,Asia,142,626
+region,Asia,142,634
+region,Asia,142,682
+region,Asia,142,702
+region,Asia,142,704
+region,Asia,142,760
+region,Asia,142,762
+region,Asia,142,764
+region,Asia,142,784
+region,Asia,142,792
+region,Asia,142,795
+region,Asia,142,860
+region,Asia,142,887
+region,Europe,150,8
+region,Europe,150,20
+region,Europe,150,40
+region,Europe,150,56
+region,Europe,150,70
+region,Europe,150,100
+region,Europe,150,112
+region,Europe,150,191
+region,Europe,150,203
+region,Europe,150,208
+region,Europe,150,233
+region,Europe,150,234
+region,Europe,150,246
+region,Europe,150,250
+region,Europe,150,276
+region,Europe,150,292
+region,Europe,150,300
+region,Europe,150,336
+region,Europe,150,348
+region,Europe,150,352
+region,Europe,150,372
+region,Europe,150,380
+region,Europe,150,428
+region,Europe,150,440
+region,Europe,150,442
+region,Europe,150,470
+region,Europe,150,498
+region,Europe,150,499
+region,Europe,150,528
+region,Europe,150,578
+region,Europe,150,616
+region,Europe,150,620
+region,Europe,150,642
+region,Europe,150,643
+region,Europe,150,674
+region,Europe,150,688
+region,Europe,150,703
+region,Europe,150,705
+region,Europe,150,724
+region,Europe,150,752
+region,Europe,150,756
+region,Europe,150,804
+region,Europe,150,807
+region,Europe,150,826
+region,Other,998,10
+region,Other,998,260
+region,Other,998,914
+region,Other,998,999
+subregion,South America,5,32
+subregion,South America,5,68
+subregion,South America,5,74
+subregion,South America,5,76
+subregion,South America,5,152
+subregion,South America,5,170
+subregion,South America,5,218
+subregion,South America,5,238
+subregion,South America,5,239
+subregion,South America,5,254
+subregion,South America,5,328
+subregion,South America,5,600
+subregion,South America,5,604
+subregion,South America,5,740
+subregion,South America,5,858
+subregion,South America,5,862
+subregion,Western Africa,11,132
+subregion,Western Africa,11,204
+subregion,Western Africa,11,270
+subregion,Western Africa,11,288
+subregion,Western Africa,11,324
+subregion,Western Africa,11,384
+subregion,Western Africa,11,430
+subregion,Western Africa,11,466
+subregion,Western Africa,11,478
+subregion,Western Africa,11,562
+subregion,Western Africa,11,566
+subregion,Western Africa,11,624
+subregion,Western Africa,11,654
+subregion,Western Africa,11,686
+subregion,Western Africa,11,694
+subregion,Western Africa,11,768
+subregion,Western Africa,11,854
+subregion,Central America,13,84
+subregion,Central America,13,188
+subregion,Central America,13,222
+subregion,Central America,13,320
+subregion,Central America,13,340
+subregion,Central America,13,484
+subregion,Central America,13,558
+subregion,Central America,13,591
+subregion,Eastern Africa,14,86
+subregion,Eastern Africa,14,108
+subregion,Eastern Africa,14,174
+subregion,Eastern Africa,14,175
+subregion,Eastern Africa,14,231
+subregion,Eastern Africa,14,232
+subregion,Eastern Africa,14,262
+subregion,Eastern Africa,14,404
+subregion,Eastern Africa,14,450
+subregion,Eastern Africa,14,454
+subregion,Eastern Africa,14,480
+subregion,Eastern Africa,14,508
+subregion,Eastern Africa,14,638
+subregion,Eastern Africa,14,646
+subregion,Eastern Africa,14,690
+subregion,Eastern Africa,14,706
+subregion,Eastern Africa,14,716
+subregion,Eastern Africa,14,728
+subregion,Eastern Africa,14,800
+subregion,Eastern Africa,14,834
+subregion,Eastern Africa,14,894
+subregion,Northern Africa,15,12
+subregion,Northern Africa,15,434
+subregion,Northern Africa,15,504
+subregion,Northern Africa,15,729
+subregion,Northern Africa,15,732
+subregion,Northern Africa,15,788
+subregion,Northern Africa,15,818
+subregion,Middle Africa,17,24
+subregion,Middle Africa,17,120
+subregion,Middle Africa,17,140
+subregion,Middle Africa,17,148
+subregion,Middle Africa,17,178
+subregion,Middle Africa,17,180
+subregion,Middle Africa,17,226
+subregion,Middle Africa,17,266
+subregion,Middle Africa,17,678
+subregion,Southern Africa,18,72
+subregion,Southern Africa,18,426
+subregion,Southern Africa,18,516
+subregion,Southern Africa,18,710
+subregion,Southern Africa,18,748
+subregion,Northern America,21,60
+subregion,Northern America,21,124
+subregion,Northern America,21,304
+subregion,Northern America,21,666
+subregion,Northern America,21,840
+subregion,Caribbean,29,28
+subregion,Caribbean,29,44
+subregion,Caribbean,29,52
+subregion,Caribbean,29,92
+subregion,Caribbean,29,136
+subregion,Caribbean,29,192
+subregion,Caribbean,29,212
+subregion,Caribbean,29,214
+subregion,Caribbean,29,308
+subregion,Caribbean,29,312
+subregion,Caribbean,29,332
+subregion,Caribbean,29,388
+subregion,Caribbean,29,474
+subregion,Caribbean,29,500
+subregion,Caribbean,29,530
+subregion,Caribbean,29,531
+subregion,Caribbean,29,533
+subregion,Caribbean,29,534
+subregion,Caribbean,29,535
+subregion,Caribbean,29,652
+subregion,Caribbean,29,659
+subregion,Caribbean,29,660
+subregion,Caribbean,29,662
+subregion,Caribbean,29,670
+subregion,Caribbean,29,780
+subregion,Caribbean,29,796
+subregion,Caribbean,29,850
+subregion,Eastern Asia,30,156
+subregion,Eastern Asia,30,158
+subregion,Eastern Asia,30,344
+subregion,Eastern Asia,30,392
+subregion,Eastern Asia,30,408
+subregion,Eastern Asia,30,410
+subregion,Eastern Asia,30,446
+subregion,Eastern Asia,30,496
+subregion,Southern Asia,34,4
+subregion,Southern Asia,34,50
+subregion,Southern Asia,34,64
+subregion,Southern Asia,34,144
+subregion,Southern Asia,34,356
+subregion,Southern Asia,34,364
+subregion,Southern Asia,34,462
+subregion,Southern Asia,34,524
+subregion,Southern Asia,34,586
+subregion,South-eastern Asia,35,96
+subregion,South-eastern Asia,35,104
+subregion,South-eastern Asia,35,116
+subregion,South-eastern Asia,35,360
+subregion,South-eastern Asia,35,418
+subregion,South-eastern Asia,35,458
+subregion,South-eastern Asia,35,608
+subregion,South-eastern Asia,35,626
+subregion,South-eastern Asia,35,702
+subregion,South-eastern Asia,35,704
+subregion,South-eastern Asia,35,764
+subregion,Southern Europe,39,8
+subregion,Southern Europe,39,20
+subregion,Southern Europe,39,70
+subregion,Southern Europe,39,191
+subregion,Southern Europe,39,292
+subregion,Southern Europe,39,300
+subregion,Southern Europe,39,336
+subregion,Southern Europe,39,380
+subregion,Southern Europe,39,470
+subregion,Southern Europe,39,499
+subregion,Southern Europe,39,620
+subregion,Southern Europe,39,674
+subregion,Southern Europe,39,688
+subregion,Southern Europe,39,705
+subregion,Southern Europe,39,724
+subregion,Southern Europe,39,807
+subregion,Australia and New Zealand,53,36
+subregion,Australia and New Zealand,53,162
+subregion,Australia and New Zealand,53,166
+subregion,Australia and New Zealand,53,334
+subregion,Australia and New Zealand,53,554
+subregion,Australia and New Zealand,53,574
+subregion,Melanesia,54,90
+subregion,Melanesia,54,242
+subregion,Melanesia,54,540
+subregion,Melanesia,54,548
+subregion,Melanesia,54,598
+subregion,Micronesia,57,296
+subregion,Micronesia,57,316
+subregion,Micronesia,57,520
+subregion,Micronesia,57,580
+subregion,Micronesia,57,581
+subregion,Micronesia,57,583
+subregion,Micronesia,57,584
+subregion,Micronesia,57,585
+subregion,Polynesia,61,16
+subregion,Polynesia,61,184
+subregion,Polynesia,61,258
+subregion,Polynesia,61,570
+subregion,Polynesia,61,612
+subregion,Polynesia,61,772
+subregion,Polynesia,61,776
+subregion,Polynesia,61,798
+subregion,Polynesia,61,876
+subregion,Polynesia,61,882
+subregion,Central Asia,143,398
+subregion,Central Asia,143,417
+subregion,Central Asia,143,762
+subregion,Central Asia,143,795
+subregion,Central Asia,143,860
+subregion,Western Asia,145,31
+subregion,Western Asia,145,48
+subregion,Western Asia,145,51
+subregion,Western Asia,145,196
+subregion,Western Asia,145,268
+subregion,Western Asia,145,275
+subregion,Western Asia,145,368
+subregion,Western Asia,145,376
+subregion,Western Asia,145,400
+subregion,Western Asia,145,414
+subregion,Western Asia,145,422
+subregion,Western Asia,145,512
+subregion,Western Asia,145,634
+subregion,Western Asia,145,682
+subregion,Western Asia,145,760
+subregion,Western Asia,145,784
+subregion,Western Asia,145,792
+subregion,Western Asia,145,887
+subregion,Eastern Europe,151,100
+subregion,Eastern Europe,151,112
+subregion,Eastern Europe,151,203
+subregion,Eastern Europe,151,348
+subregion,Eastern Europe,151,498
+subregion,Eastern Europe,151,616
+subregion,Eastern Europe,151,642
+subregion,Eastern Europe,151,643
+subregion,Eastern Europe,151,703
+subregion,Eastern Europe,151,804
+subregion,Northern Europe,154,208
+subregion,Northern Europe,154,233
+subregion,Northern Europe,154,234
+subregion,Northern Europe,154,246
+subregion,Northern Europe,154,352
+subregion,Northern Europe,154,372
+subregion,Northern Europe,154,428
+subregion,Northern Europe,154,440
+subregion,Northern Europe,154,578
+subregion,Northern Europe,154,752
+subregion,Northern Europe,154,826
+subregion,Western Europe,155,40
+subregion,Western Europe,155,56
+subregion,Western Europe,155,250
+subregion,Western Europe,155,276
+subregion,Western Europe,155,442
+subregion,Western Europe,155,528
+subregion,Western Europe,155,756
+subregion,Other,996,10
+subregion,Other,996,260
+subregion,Other,997,914
+subregion,Other,997,999
+world,world,1,4
+world,world,1,8
+world,world,1,10
+world,world,1,12
+world,world,1,16
+world,world,1,20
+world,world,1,24
+world,world,1,28
+world,world,1,31
+world,world,1,32
+world,world,1,36
+world,world,1,40
+world,world,1,44
+world,world,1,48
+world,world,1,50
+world,world,1,51
+world,world,1,52
+world,world,1,56
+world,world,1,60
+world,world,1,64
+world,world,1,68
+world,world,1,70
+world,world,1,72
+world,world,1,74
+world,world,1,76
+world,world,1,84
+world,world,1,86
+world,world,1,90
+world,world,1,92
+world,world,1,96
+world,world,1,100
+world,world,1,104
+world,world,1,108
+world,world,1,112
+world,world,1,116
+world,world,1,120
+world,world,1,124
+world,world,1,132
+world,world,1,136
+world,world,1,140
+world,world,1,144
+world,world,1,148
+world,world,1,152
+world,world,1,156
+world,world,1,158
+world,world,1,162
+world,world,1,166
+world,world,1,170
+world,world,1,174
+world,world,1,175
+world,world,1,178
+world,world,1,180
+world,world,1,184
+world,world,1,188
+world,world,1,191
+world,world,1,192
+world,world,1,196
+world,world,1,200
+world,world,1,203
+world,world,1,204
+world,world,1,208
+world,world,1,212
+world,world,1,214
+world,world,1,218
+world,world,1,222
+world,world,1,226
+world,world,1,231
+world,world,1,232
+world,world,1,233
+world,world,1,234
+world,world,1,238
+world,world,1,239
+world,world,1,242
+world,world,1,246
+world,world,1,250
+world,world,1,254
+world,world,1,258
+world,world,1,260
+world,world,1,262
+world,world,1,266
+world,world,1,268
+world,world,1,270
+world,world,1,275
+world,world,1,276
+world,world,1,278
+world,world,1,288
+world,world,1,292
+world,world,1,296
+world,world,1,300
+world,world,1,304
+world,world,1,308
+world,world,1,312
+world,world,1,316
+world,world,1,320
+world,world,1,324
+world,world,1,328
+world,world,1,332
+world,world,1,334
+world,world,1,336
+world,world,1,340
+world,world,1,344
+world,world,1,348
+world,world,1,352
+world,world,1,356
+world,world,1,360
+world,world,1,364
+world,world,1,368
+world,world,1,372
+world,world,1,376
+world,world,1,380
+world,world,1,384
+world,world,1,388
+world,world,1,392
+world,world,1,398
+world,world,1,400
+world,world,1,404
+world,world,1,408
+world,world,1,410
+world,world,1,414
+world,world,1,417
+world,world,1,418
+world,world,1,422
+world,world,1,426
+world,world,1,428
+world,world,1,430
+world,world,1,434
+world,world,1,440
+world,world,1,442
+world,world,1,446
+world,world,1,450
+world,world,1,454
+world,world,1,458
+world,world,1,462
+world,world,1,466
+world,world,1,470
+world,world,1,474
+world,world,1,478
+world,world,1,480
+world,world,1,484
+world,world,1,496
+world,world,1,498
+world,world,1,499
+world,world,1,500
+world,world,1,504
+world,world,1,508
+world,world,1,512
+world,world,1,516
+world,world,1,520
+world,world,1,524
+world,world,1,528
+world,world,1,530
+world,world,1,531
+world,world,1,533
+world,world,1,534
+world,world,1,535
+world,world,1,540
+world,world,1,548
+world,world,1,554
+world,world,1,558
+world,world,1,562
+world,world,1,566
+world,world,1,570
+world,world,1,574
+world,world,1,578
+world,world,1,580
+world,world,1,581
+world,world,1,582
+world,world,1,583
+world,world,1,584
+world,world,1,585
+world,world,1,586
+world,world,1,591
+world,world,1,592
+world,world,1,598
+world,world,1,600
+world,world,1,604
+world,world,1,608
+world,world,1,612
+world,world,1,616
+world,world,1,620
+world,world,1,624
+world,world,1,626
+world,world,1,634
+world,world,1,638
+world,world,1,642
+world,world,1,643
+world,world,1,646
+world,world,1,652
+world,world,1,654
+world,world,1,659
+world,world,1,660
+world,world,1,662
+world,world,1,666
+world,world,1,670
+world,world,1,674
+world,world,1,678
+world,world,1,682
+world,world,1,686
+world,world,1,688
+world,world,1,690
+world,world,1,694
+world,world,1,702
+world,world,1,703
+world,world,1,704
+world,world,1,705
+world,world,1,706
+world,world,1,710
+world,world,1,716
+world,world,1,720
+world,world,1,724
+world,world,1,728
+world,world,1,729
+world,world,1,732
+world,world,1,740
+world,world,1,748
+world,world,1,752
+world,world,1,756
+world,world,1,760
+world,world,1,762
+world,world,1,764
+world,world,1,768
+world,world,1,772
+world,world,1,776
+world,world,1,780
+world,world,1,784
+world,world,1,788
+world,world,1,792
+world,world,1,795
+world,world,1,796
+world,world,1,798
+world,world,1,800
+world,world,1,804
+world,world,1,807
+world,world,1,810
+world,world,1,818
+world,world,1,826
+world,world,1,834
+world,world,1,840
+world,world,1,850
+world,world,1,854
+world,world,1,858
+world,world,1,860
+world,world,1,862
+world,world,1,868
+world,world,1,876
+world,world,1,882
+world,world,1,887
+world,world,1,890
+world,world,1,891
+world,world,1,894
+world,world,1,914
+world,world,1,999

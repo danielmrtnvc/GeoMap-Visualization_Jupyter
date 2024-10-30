@@ -1,0 +1,39 @@
+group_id,group_type,group_name,parent_id,parent_type
+930,continent,North America,,
+931,continent,Asia,,
+932,continent,Africa,,
+933,continent,Europe,,
+934,continent,South America,,
+935,continent,Other,,
+936,continent,Oceania,,
+2,region,Africa,1,world
+9,region,Oceania,1,world
+19,region,Americas,1,world
+142,region,Asia,1,world
+150,region,Europe,1,world
+998,region,Other,1,world
+5,subregion,South America,19,region
+11,subregion,Western Africa,2,region
+13,subregion,Central America,19,region
+14,subregion,Eastern Africa,2,region
+15,subregion,Northern Africa,2,region
+17,subregion,Middle Africa,2,region
+18,subregion,Southern Africa,2,region
+21,subregion,Northern America,19,region
+29,subregion,Caribbean,19,region
+30,subregion,Eastern Asia,142,region
+34,subregion,Southern Asia,142,region
+35,subregion,South-eastern Asia,142,region
+39,subregion,Southern Europe,150,region
+53,subregion,Australia and New Zealand,9,region
+54,subregion,Melanesia,9,region
+57,subregion,Micronesia,9,region
+61,subregion,Polynesia,9,region
+143,subregion,Central Asia,142,region
+145,subregion,Western Asia,142,region
+151,subregion,Eastern Europe,150,region
+154,subregion,Northern Europe,150,region
+155,subregion,Western Europe,150,region
+996,subregion,Antarctica,998,region
+997,subregion,Other,998,region
+1,world,world,,
