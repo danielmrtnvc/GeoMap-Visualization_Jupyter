@@ -4,6 +4,8 @@
 
 The **Global Trade Visualizer** is a Jupyter notebook script that visualizes global import and export data for countries using interactive choropleth maps. The project aggregates data and displays it on a map, providing insights into international trade patterns and economic trends. This tool helps to better understand the global flow of goods and services, offering a clear, visual representation of trade volumes across various regions.
 
+![alt text](image-1.png)
+
 ---
 
 ## Features
